@@ -1,7 +1,7 @@
 # IRscope_10more_idvs
 Modified R script from IRscope to plot more than 10 individuals in one plot.
 
-### example Usage in R studio:
+### Example usage in R studio:
 source("IR_functions.R")
 
 gb_files = c('1.gb','2.gb','3.gb',
