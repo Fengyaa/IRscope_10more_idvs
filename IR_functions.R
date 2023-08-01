@@ -1888,13 +1888,6 @@ rdnFixerD<- function(FasGenome){
   
 
 }
-setwd('/Users/yufeng/Desktop/Campylotropis/chloroplast_genome/revised_fa/gb')
-gb_files_t = c('KST.gb','LMA.gb','S867.gb','CPA.gb','CTH.gb','CBR.gb','CPY.gb','CWI.gb','CMA.gb',
-               'CYF.gb',
-               'CHR.gb','CCA.gb','CDE.gb','CGR.gb')
-
-IRs(gb_files_t)
-IRs2(gb_files_t)
 
 ##for the Dogma and fasta
 sp.nameD<- function(gb){
